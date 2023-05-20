@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-arosh",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "48a73799-0946-4e40-b7be-2257161df317",
+		"tenantId": "70d5c18c-fb86-4b7f-b987-e33634ea2bfb"
+	}
+}
